@@ -1,9 +1,7 @@
 import React from 'react';
-import { useTranslation } from 'react-i18next';
 import { TrendingUp, Users, Zap } from 'lucide-react';
 
 export const Stats: React.FC = () => {
-  const { t } = useTranslation();
 
   const stats = [
     {

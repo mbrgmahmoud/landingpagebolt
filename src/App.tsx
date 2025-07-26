@@ -6,7 +6,7 @@ import { URLInput } from './components/URLInput';
 import { LandingPagePreview } from './components/LandingPagePreview';
 import { Stats } from './components/Stats';
 import { GPTService } from './services/gptService';
-import { GeneratedPage, ProductData } from './types';
+import { GeneratedPage } from './types';
 import './i18n';
 
 function App() {
